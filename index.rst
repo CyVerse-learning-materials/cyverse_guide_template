@@ -1,9 +1,10 @@
 .. include:: cyverse_rst_defined_substitutions.txt
 
-|CyVerse logo|_
+|CyVerse_logo|_
 
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
+
 
 **GUIDE NAME**
 ==============
@@ -32,6 +33,23 @@ Goal
 	Copy step1.rst. step2.rst has slightly different formatting to end the document.
 	Edit these titles and filenames as needed ####
 
+Guide Maintainer(s)
+------------------------
+
+Who to contact if this guide needs fixing. You can also email
+`Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
+
+.. list-table::
+    :header-rows: 1
+
+    * - Maintainer
+      - Institution
+      - Contact
+    * - Your Name
+      - CyVerse / UA
+      - Yourname@email.com
+
+----
 
 Prerequisites
 -------------
@@ -106,13 +124,18 @@ Platform(s)
       - |Agave API|
       - |Agave Live Docs|
       - (See Live Docs)
+
 ----
 
 **Fix or improve this documentation**
 
-- On Github: |Github Repo Link|
+- Search for an answer:
+  |CyVerse Learning Center|
+- Ask us for help:
+  click |Intercom| on the lower right-hand side of the page
+- Report an issue or submit a change:
+  |Github Repo Link|
 - Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
-- Live chat/help: Click on the |intercom| on the bottom-right of the page for questions on documentation
 
 ----
 

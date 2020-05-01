@@ -1,9 +1,10 @@
 .. include:: cyverse_rst_defined_substitutions.txt
 
-|CyVerse logo|_
+|CyVerse_logo|_
 
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
+
 
 
 Section Title
@@ -23,9 +24,21 @@ Section Title
 *Descriptive title - reference platform/tool name for searchability*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-  1.
+1. Replace the text below with your own
 
-  2.
+2. Use the image src in this link to link to
+
+   - A DE App: |DE App|
+   - An Atmosphere image: |Atmosphere Image|
+
+3. Click :guilabel:`&Cancel` to continue is how you can show a button
+
+4. Tell the user to choose an appropriate value for a setting
+
+   .. admonition:: sample-data
+
+     Tell them if they are following with our sample data exactly
+     what value to choose
 
 ..
 	#### Comment: Suggested style guide:
@@ -40,11 +53,15 @@ Section Title
 
 ----
 
-**Fix or improve this documentation:**
+**Fix or improve this documentation**
 
-- On Github: |Github Repo Link|
+- Search for an answer:
+  |CyVerse Learning Center|
+- Ask us for help:
+  click |Intercom| on the lower right-hand side of the page
+- Report an issue or submit a change:
+  |Github Repo Link|
 - Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
-- Live chat/help: Click on the |intercom| on the bottom-right of the page for questions on documentation
 
 ----
 
@@ -80,3 +97,12 @@ Section Title
 .. |Github Repo Link|  raw:: html
 
    <a href="FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX" target="blank">Github Repo Link</a>
+
+
+.. |DE App| raw:: html
+
+   <a href="https://de.cyverse.org/de/?type=apps&app-id=9b41c9e4-5031-4a49-b1cb-c471335df16e&system-id=de" target="blank"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a>
+
+.. |Atmosphere Image| raw:: html
+
+   <a href="https://atmo.cyverse.org/application/images/1384" target="blank"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a>
