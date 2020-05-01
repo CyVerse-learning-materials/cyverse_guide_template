@@ -1,4 +1,4 @@
-# Template CyVerse Guide Repo
+# Template CyVerse Guide Repo (Version 2.0, May 2020)
 
 You should import this repo to build CyVerse Platform/Service Guides
 
