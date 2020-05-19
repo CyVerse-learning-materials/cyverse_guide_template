@@ -1,4 +1,5 @@
 .. include:: cyverse_rst_defined_substitutions.txt
+.. include:: custom_urls.txt
 
 |CyVerse_logo|_
 
@@ -28,8 +29,8 @@ Section Title
 
 2. Use the image src in this link to link to
 
-   - A DE App: |DE App|
-   - An Atmosphere image: |Atmosphere Image|
+   - A DE App: |CyVerse_launch|
+   - An Atmosphere image: |CyVerse_launch|
 
 3. Click :guilabel:`&Cancel` to continue is how you can show a button
 
