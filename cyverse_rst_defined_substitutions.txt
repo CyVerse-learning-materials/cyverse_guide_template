@@ -87,9 +87,9 @@
 
    <a href="https://cyverse-de.github.io/api/" target="blank">Terrain DE API Docs</a>
 
-.. |Tapis TACC API| raw:: html
+.. |Tapis TACC API Docs|  raw:: html
 
-   <a href="https://www.tacc.utexas.edu/tapis" target="blank">Tapis TACC API</a>
+   <a href="https://tacc-cloud.readthedocs.io/projects/agave/en/latest/" target="blank">Tapis TACC API Docs</a>
 
 
 
